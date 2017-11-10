@@ -47,7 +47,6 @@ header {
   margin-top: 230px;
   background-color: black;
   width: 100%;
-
 }
 h2, h3, h4 {
   margin: 0;
@@ -93,12 +92,12 @@ h2, h3, h4 {
   flex-direction: column;
   opacity: 1;
   flex-basis: 280px;
-  flex-direction: column;
   padding: 10px;
   margin: 5px 20px;
 }
 .contact {
   height: 200px;
+  display: block;
 }
 .copyright {
   text-align: left;
